@@ -13,5 +13,7 @@ The application helps to understand how the memory management unit works.
 
 ![f235437696989daaf79965d407f2c2b0-6](https://user-images.githubusercontent.com/50112456/56912419-e4b2e700-6ab7-11e9-9c79-511b18917497.jpg)
 
-UI is written using Swing
+UI is written using Swing. Displays the performed operations in MMU. The list of the operations is stored in a separate file that created by custom logger. 
 ![image](https://user-images.githubusercontent.com/50112456/56912890-03fe4400-6ab9-11e9-9c87-fd7322e9f372.png)
+
+Testing was done with junit. 
